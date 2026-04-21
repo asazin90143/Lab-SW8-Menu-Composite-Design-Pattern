@@ -86,15 +86,3 @@ This project implements a hierarchical menu system for a restaurant using the **
 
 1. Compile all files: `javac *.java`
 2. Run the main application: `java RestoApp`
-
-## Expected Output
-
-MAIN MENU
-BARKADA SOLO MEAL
-  Classic Burger: P250.00
-  Large Fries: P85.00
-  Root Beer: P60.00
-  Vanilla Sundae: P45.00
-===
-
-Total Menu Value: P440.00
